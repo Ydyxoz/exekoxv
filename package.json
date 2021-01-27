@@ -1,5 +1,15 @@
 {
 "scripts": {
     "start":"node index.js"
- }
+ },
+  "name": "code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
